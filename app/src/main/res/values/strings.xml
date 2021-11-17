@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="notification_create_succ">Create success\!!!</string>
+    <string name="btn_create">Create</string>
+    <string name="tv_propname">Property Name</string>
+    <string name="tv_address">Address</string>
+    <string name="tv_type">Type</string>
+    <string name="tv_bedrooms">Bedrooms</string>
+    <string name="tv_date">Date</string>
+    <string name="tv_furniture">Furniture</string>
+    <string name="tv_price">Price per month</string>
+    <string name="tv_reporter">Reporter</string>
+    <string name="tv_note">Note</string>
+
+</resources>
